@@ -1,8 +1,8 @@
 const config = {
-  domainName: "quillminds.com",
-  appName: "QuillMinds",
+  domainName: "ozistanbul",
+  appName: "OZ Istanbul",
   appDescription:
-    "QuillMinds is ai-powered lesson preparation tool for teachers.",
+    "oz istanbull Best Site",
 };
 
 export default config;
